@@ -1,1 +1,6 @@
 # modern-php
+
+Make sure to run composer install & npm install after you pull the latest changes or switch to a new branch so that you are always using the same versions of dependencies that I do during the lessons
+Run npm run dev if you want to build assets for development
+Run npm run build if you want to build assets for productions
+Run npm run watch if you want to build assets during development & have it automatically be watched so that it rebuilds after you make updates to front-end
